@@ -1,16 +1,18 @@
-### Hi there 👋
+# Olá, eu sou a Alexandre! 👋
 
-<!--
-**alexandremrrocha/alexandremrrocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
 
-Here are some ideas to get you started:
+Eu sou um Desenvolvedor Full-Stack apaixonado pelo o que faz, e que gosta muito
+de aprender e construir cada vez mais projetos, sejam eles para WEB, mobile
+ou desktop. Também gosto muito de desenvolver jogos utilizando o motor grafico da
+Unity. Enfim seja bem vindo ao meu perfil!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Habilidades
+
+- Javascript, HTML, CSS, NodeJS, Express, TypeORM, SQL, API REST, Bootstrap 
+- JQuery, ADVPL, Java, Gradle, C#, Unity, C, C++, ERP Protheus, ERP Sankhya
+
+## 🔗 Links
+
+[![portfolio](https://img.shields.io/badge/meu_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://alexandremrrocha.github.io/#portfolio)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-miranda-rezende-rocha-3a69131a0/)
