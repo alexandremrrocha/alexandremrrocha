@@ -9,7 +9,7 @@ Unity. Enfim seja bem vindo ao meu perfil!!
 
 ## 🛠 Habilidades
 
-- Javascript, HTML, CSS, NodeJS, Express, TypeORM, SQL, API REST, Bootstrap 
+- Javascript, HTML, CSS, NodeJS, Express, TypeORM, SQL, NOSQL, API REST, Bootstrap 
 - JQuery, ADVPL, Java, Gradle, C#, Unity, C, C++, ERP Protheus, ERP Sankhya
 
 ## 🔗 Links
