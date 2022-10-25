@@ -1,4 +1,4 @@
-# Olá, eu sou a Alexandre! 👋
+# Olá, eu sou o Alexandre! 👋
 
 ## 🚀 Sobre mim
 
