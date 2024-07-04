@@ -15,5 +15,4 @@ Unity. Enfim seja bem vindo ao meu perfil!!
 
 ## 🔗 Links
 
->[![portfolio](https://img.shields.io/badge/meu_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://alexandremrrocha.github.io/#portfolio)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-miranda-rezende-rocha-3a69131a0/)
