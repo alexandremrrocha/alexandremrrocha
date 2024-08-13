@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mim
 
-Eu sou um Desenvolvedor apaixonado pelo o que faz, e que gosta muito
+Eu sou um desenvolvedor apaixonado pelo o que faz, e que gosta muito
 de aprender e construir cada vez mais projetos, sejam eles para WEB, mobile
 ou desktop. Seja bem vindo ao meu perfil!!
 
