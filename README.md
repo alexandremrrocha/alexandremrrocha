@@ -2,10 +2,9 @@
 
 ## 🚀 Sobre mim
 
-Eu sou um Desenvolvedor Full-Stack apaixonado pelo o que faz, e que gosta muito
+Eu sou um Desenvolvedor apaixonado pelo o que faz, e que gosta muito
 de aprender e construir cada vez mais projetos, sejam eles para WEB, mobile
-ou desktop. Também gosto muito de desenvolver jogos utilizando o motor grafico da
-Unity. Enfim seja bem vindo ao meu perfil!!
+ou desktop. Seja bem vindo ao meu perfil!!
 
 ## 🛠 Habilidades
 
