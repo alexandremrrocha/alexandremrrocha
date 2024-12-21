@@ -13,7 +13,7 @@ de aprender e construir cada vez mais projetos. Seja bem vindo ao meu perfil!!
 - **Ferramentas:** Git, Docker, VSCode, IntelliJ, Dbeaver, Insomnia 
 - **Sistemas ERP:** Protheus, Sankhya  
 
-## Meu portfolio
+## Meu portfólio
 ### Projetos Backend
 **PHP**
 
