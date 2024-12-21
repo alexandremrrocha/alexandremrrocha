@@ -2,15 +2,16 @@
 
 ## 🚀 Sobre mim
 
-Eu sou um desenvolvedor apaixonado pelo o que faz, e que gosta muito
-de aprender e construir cada vez mais projetos, sejam eles para WEB, mobile
-ou desktop. Seja bem vindo ao meu perfil!!
+Eu sou um desenvolvedor back-end apaixonado pelo o que faz, e que gosta muito
+de aprender e construir cada vez mais projetos. Seja bem vindo ao meu perfil!!
 
 ## 🛠 Habilidades
 
-- Javascript, HTML, CSS, NodeJS, TypeORM, SQLServer 
-- Java, C, ERP Protheus, ERP Sankhya, API REST
-- TypeScript, PHP, PL/SQL
+- **Linguagens:** JavaScript, TypeScript, PHP, Java
+- **Frameworks:** NodeJS, TypeORM, Jape, Angular 
+- **Banco de Dados:** SQLServer, Oracle, MySQL  
+- **Ferramentas:** Git, Docker, VSCode, IntelliJ, Dbeaver, Insomnia 
+- **Sistemas ERP:** Protheus, Sankhya  
 
 ## Meu portfolio
 ### Projetos Backend
@@ -32,6 +33,6 @@ ou desktop. Seja bem vindo ao meu perfil!!
 
 - https://github.com/alexandremrrocha/MemoTeca
 
-## 🔗 Links
+## 📫 Como entrar em contato   
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-miranda-rezende-rocha-3a69131a0/)
