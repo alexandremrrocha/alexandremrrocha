@@ -2,14 +2,14 @@
 
 ## 🚀 Sobre mim
 
-Eu sou um desenvolvedor back-end apaixonado pelo o que faz, e que gosta muito
+Eu sou um desenvolvedor apaixonado pelo o que faz, e que gosta muito
 de aprender e construir cada vez mais projetos. Seja bem vindo ao meu perfil!!
 
 ## 🛠 Habilidades
 
-- **Linguagens:** JavaScript, TypeScript, PHP, Java
-- **Frameworks:** NodeJS, TypeORM, Jape, Angular 
-- **Banco de Dados:** SQLServer, Oracle, MySQL  
+- **Linguagens:** JavaScript, TypeScript, PHP
+- **Frameworks:** NodeJS, TypeORM, Angular 
+- **Banco de Dados:** SQLServer, Oracle, MySQL, PostgresSQL 
 - **Ferramentas:** Git, Docker, VSCode, IntelliJ, Dbeaver, Insomnia 
 - **Sistemas ERP:** Protheus, Sankhya  
 
