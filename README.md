@@ -25,7 +25,7 @@ Sou apaixonado por aprender, escrever código limpo e contribuir com soluções 
 #### JavaScript/TypeScript
 - [API de Gestão Escolar](https://github.com/alexandremrrocha/API_Escola)
 - [API de Usuários](https://github.com/alexandremrrocha/API_Usuario)
-- [Gerenciamento de Desempenho](https://github.com/alexandremrrocha/GerenciamentoDesempenho)
+- [Gerenciamento de Desempenho](https://github.com/alexandremrrocha/GerenciamentoDesempenho) — Software que exibe informações do sistema como uso de CPU, memória RAM, sistema operacional e modelo do processador.
 - [API de Livraria](https://github.com/alexandremrrocha/API_Livraria)
 - [API de Blog](https://github.com/alexandremrrocha/API_Blog)
 
