@@ -16,8 +16,6 @@ Sou apaixonado por aprender, escrever código limpo e contribuir com soluções 
 
 ## 📂 Projetos em destaque
 
-### 🔧 Backend
-
 #### PHP
 - [Digital CEP (API REST)](https://github.com/alexandremrrocha/Digital-Cep)
 - [API PHP Puro](https://github.com/alexandremrrocha/API_PHP_PURO)
@@ -28,11 +26,6 @@ Sou apaixonado por aprender, escrever código limpo e contribuir com soluções 
 - [Gerenciamento de Desempenho](https://github.com/alexandremrrocha/GerenciamentoDesempenho) — Software que exibe informações do sistema como uso de CPU, memória RAM, sistema operacional e modelo do processador.
 - [API de Livraria](https://github.com/alexandremrrocha/API_Livraria)
 - [API de Blog](https://github.com/alexandremrrocha/API_Blog)
-
-### 💻 Frontend
-
-#### TypeScript (Angular)
-- [MemoTeca - Aplicativo de anotações](https://github.com/alexandremrrocha/MemoTeca)
 
 ## 📫 Contato
 
