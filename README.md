@@ -30,4 +30,4 @@ Sou apaixonado por aprender, escrever código limpo e contribuir com soluções 
 
 ## 📫 Contato
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-miranda-rezende-rocha-3a69131a0/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandremrrocha/)
