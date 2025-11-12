@@ -28,6 +28,9 @@ Sou apaixonado por aprender, escrever código limpo e contribuir com soluções 
 - [API de Blog](https://github.com/alexandremrrocha/API_Blog)
 - [API de Gerenciador de Finanças](https://github.com/alexandremrrocha/api-finance-manager)
 
+#### Python
+- [Integração do Docker com o Discord](https://github.com/alexandremrrocha/integracao-docker-discord)
+
 ## 📫 Contato
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandremrrocha/)
