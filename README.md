@@ -1,36 +1,28 @@
-# 👋 Olá, eu sou o Alexandre!
+# 👋 Olá, sou Alexandre Miranda Rezende Rocha
 
-## 🚀 Sobre mim
+### Desenvolvedor de Software | Node.js, TypeScript, NestJS, APIs e Integrações
 
-Sou desenvolvedor backend com foco em Node.js e TypeScript. Tenho experiência no desenvolvimento de APIs RESTful, integrações com sistemas ERP (como Sankhya e Protheus) e automação de processos com foco em performance, manutenibilidade e boas práticas de código.
+Tenho cerca de quatro anos de experiência profissional com Node.js e TypeScript, desenvolvendo APIs REST, integrações entre sistemas e automações. Também trabalho com Angular, bancos relacionais e módulos Java do ERP Sankhya; tenho experiência profissional com Spring Boot também.
 
-Sou apaixonado por aprender, escrever código limpo e contribuir com soluções que gerem valor real. Este é o meu espaço de experimentação, estudos e projetos pessoais. Seja bem-vindo(a)!
+Atuei em projetos com o chatbot e a plataforma low-code e em um produto Flutter com backend e sincronização offline usando SQLite. No meu produto próprio de gestão para barbearias, que está em comercialização, desenvolvi o backend com NestJS, TypeScript e PostgreSQL.
 
-## 🛠 Tecnologias e Ferramentas
+Além de desenvolver, elaboro propostas técnicas, participo de estimativas e planejamento, faço code reviews e uso ChatGPT e Codex como apoio à análise, implementação e depuração, validando tecnicamente os resultados.
 
-- **Linguagens:** JavaScript, TypeScript, PHP
-- **Frameworks:** NodeJS, TypeORM, Angular 
-- **Banco de Dados:** PostgreSQL, MySQL, SQL Server, Oracle
-- **Ferramentas:** Git, Docker, VSCode, IntelliJ, Dbeaver, Insomnia 
-- **Sistemas ERP:** Protheus, Sankhya  
+## 🛠️ Tecnologias e ferramentas
 
-## 📂 Projetos em destaque
+- **Backend:** Node.js, TypeScript, NestJS, Java, Spring Boot, APIs REST
+- **Frontend e mobile:** Angular, Flutter
+- **Bancos de dados:** PostgreSQL, MySQL, Oracle, SQL Server, MongoDB, SQLite
+- **Integrações:** APIs externas, processamento assíncrono, filas e sincronização offline
+- **Ferramentas e práticas:** Docker, CI/CD, Git, GitHub, GitLab, Jest, TypeORM, Knex, Scrum, Kanban
 
-#### PHP
-- [API de CEP](https://github.com/alexandremrrocha/Digital-Cep)
-- [API em PHP Puro](https://github.com/alexandremrrocha/API_PHP_PURO)
+## 🚀 Projetos em destaque
 
-#### JavaScript/TypeScript
-- [API de Gestão Escolar](https://github.com/alexandremrrocha/API_Escola)
-- [API de Usuários](https://github.com/alexandremrrocha/API_Usuario)
-- [Gerenciamento de Desempenho](https://github.com/alexandremrrocha/GerenciamentoDesempenho) — Software que exibe informações do sistema como uso de CPU, memória RAM, sistema operacional e modelo do processador.
-- [API de Livraria](https://github.com/alexandremrrocha/API_Livraria)
-- [API de Blog](https://github.com/alexandremrrocha/API_Blog)
-- [API de Gerenciador de Finanças](https://github.com/alexandremrrocha/api-finance-manager)
-
-#### Python
-- [Integração do Docker com o Discord](https://github.com/alexandremrrocha/integracao-docker-discord)
+- **[Sistema de gestão para barbearias](https://barbearia.rockthecode.dev.br/agendar)** — produto próprio em comercialização; backend com NestJS, TypeScript e PostgreSQL.
+- **[Finance Manager API](https://github.com/alexandremrrocha/api-finance-manager)** — API financeira com Node.js, TypeScript, PostgreSQL, JWT e testes com TDD.
+- **[API de Usuários](https://github.com/alexandremrrocha/API_Usuario)** — API com Node.js, TypeScript, JWT e controle de acesso.
+- **[API de Livraria](https://github.com/alexandremrrocha/API_Livraria)** — API REST com Express e MongoDB.
 
 ## 📫 Contato
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandremrrocha/)
+[LinkedIn](https://www.linkedin.com/in/alexandre-miranda-rezende-rocha-3a69131a0/) · [GitHub](https://github.com/alexandremrrocha)
